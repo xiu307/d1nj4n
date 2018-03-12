@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.57.android/432b7cdf5c6aedc452406928adea891136569091/fastjson-1.1.57.android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="432b7cdf5c6aedc452406928adea891136569091">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.1.57.android_8df3964d381f65174b7f2ca7929010ffcadab3ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/8c910ec49875f4d67929876c3fb8ed2b2286a609/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="392c97a8270ccf3cc7fe6e0a5d97a5e97a61e65c">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54748d339f7f21d8b63f7362930297a9cbfcfa70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/60791765e3ede7062ebb5c15cda06b31eaca9ecb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f71558fd43c0f31c018bd01e950bd6e32aa67dff">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3518936451b6335f5bdd7af93439b17df888de24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/0496462d2bdae6b62f916ef3d9bef23d57eb44bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="880cfc79d3ef9947a15cac3d12828d848183b665">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_221c569e95467a1d568da5e223630d9c86a01b71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/d9d2e9404706f80195e88d0927e1f22f403d38da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="854493116bf9388ac119d39a6cee9801d7be4159">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5eca73f7bd0d215b0e8ed1b06d6479f8a2de199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.3.0/1eaa5762cb25c31b1905e2bfdfef70a2e0495ea6/converter-scalars-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1eaa5762cb25c31b1905e2bfdfef70a2e0495ea6">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/converter-scalars-2.3.0_133b3db13aff3daa8c83d96ac8544855bc83a625/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/fc8e730677761045af9e064c097ec79511734bad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af20faf2a6fff6cac01bb9ee4130ee942a29ec22">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67a720faf8240b5e96ea6ce0072c65099f771e61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/094709a9c582b2cac46b5a03456b8ca1ca3bfcd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c94fb0b9454384f51a21ca5e01b2a46551cb5f06">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f186f04d0a348f539b088839f05d8253de8a329b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.2/f8c7ebdc29310be23d076e5512bafe6bad3ce2f0/greendao-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8c7ebdc29310be23d076e5512bafe6bad3ce2f0">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-3.2.2_62bc2a4f034a3dc26a956584284b8daf78d68601/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/eae36cd14a30a612974619945272cae3d98f2afb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8c80d9bac58c9e32103490b3ec3a863174c88ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/ae5e3617abf71d8ebaf531c4bae915a61c2c0800/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d74f9680dccff5f2b93debb4e65b7f317c2cd38f">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3373864a28a41e2eb5afe6861c8371847a139d1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-generator/3.2.2/c1d222f0f518f6d32150c566ef378e0dcba8de1e/greendao-generator-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1d222f0f518f6d32150c566ef378e0dcba8de1e">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-generator-3.2.2_c178af492534dec54bd42259ecc6348f41567aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.6.0_fb16a19f390e8a9f36a8907263d54989489aec84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/f9c142cb7bb2926568b166d9c09a152aced6d5fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f3da801940221b852f3a3ee82bfe2a10d39e4ffa">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7ffc49d0d9bfeb71bfd72209cdb4d3dfa9b9361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_37d35f466fad5baa88ca252ddc2a2ce2797856a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC0/46d23cdc19155c5f0d47ece99ca1c421346c1509/disklrucache-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.0.0-RC0_df1217247e8221a1f5bb1c8e614ab03edcf5f160/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/eaa94c2ff2fce8cfe2680099046668db007710e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7219f056e3abdba2d60d235b2593dff1928c3ae">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a8cad28ade9158a1b439b6bc11c2d9860a2464d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/libs/ShareSDK-Wechat-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5ea4582ea3c1342818cea8bd72303020a2e950f">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-2.8.0_3418f4e6dcb07e5e26dcde9ba500e2cb70f10cf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/bundles/default/libs/alipaySdk-20161222.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1bea11bfd279aa6efacf8b9cf531a79891114f2">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/8/alipaySdk-20161222_787cb0bbc1f204fd69250e7d4bb8f0f3eb16b095/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/libs/ShareSDK-ShortMessage-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="347953ea4f4998c1169b09fb29cb8edbefaa632c">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-ShortMessage-2.8.0_ad06bb4d0b6e40626804d94e41ae11af897fed03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_6491755ae265392b6ad243ad7dcc4a5be928242f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/f570c1f67e77e5d88d66dcc18f05e899c666bb52/output/jars/libs/zbar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e671e7a14299d6f2591fc1ae672c49861d3329c6">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/zbar_e31ad4dd73ac4838285ab66fc086dbef7d85efeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/1.3.4/1828cb5509a13d98d5d3db235320886d42f0ec2e/wechat-sdk-android-with-mta-1.3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1828cb5509a13d98d5d3db235320886d42f0ec2e">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/wechat-sdk-android-with-mta-1.3.4_047c19907ff85a80ca6d114f9c3d650bad24e67d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/bb3fda14837631be5064811f3c5e00a6e5e9b5c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70d1ac3a9cafc368480b64316c5b9201a8d3210e">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5a73ea2d0fedc32d1f14974e39b44b9075f3c53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/8875244c1daace781d6eee5eab05d43371dbb7e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a038e2b43523099a6b30aeea0683a0ba2d44ba2">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ae63c58419659438421208a263e53656a586f98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC0/c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7/gifdecoder-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.0.0-RC0_9322cf5a17e023d2350b4a5f88e78c44bb0f8bdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96ef5c2a08a014425b3554324af1204866fa5828">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0c652890b85637b30b02079f034ebe3367d98aeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_4f317bd132d17806fb8c54d8b99b6b93c57f1c23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/2e7a8540182e885050ccbb655ab26c80b04723d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcefb93548a6b81150c8787f057c6a2dc8d2a9dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/ae5e3617abf71d8ebaf531c4bae915a61c2c0800/output/jars/libs/jcore-android_v1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3d29b4d9fe9fec08232b6f20aea465d0d6a86836">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/jcore-android_v1.1.0_bb3ba982b2a2da6266391c9e4e6594bd13d03df3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/f570c1f67e77e5d88d66dcc18f05e899c666bb52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ee82d5d89503f473cf021c4fc3e1ce2eb879e51">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ad4cedc3b279616da088fc41e6aff433d586e7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/libs/MobTools-2016.1222.1756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea93b627c5c5dc8b68a00ee34ac49af67015cec4">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools-2016.1222.1756_6d49c10e593b679ed891777351371fcf6afef871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC0/d5dd0afc50069b7fa0fc12ac85f91efa8df4db67/annotations-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.0.0-RC0_368a0017cd76f81da138e434822626490a7e6799/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/libs/MobCommons-2016.1222.1756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c70be90d61b9248814972afbb3a93b448c8cba5">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons-2016.1222.1756_219a624e8478f81b1ef0bb336ed11588029e7078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f856f32ae26afce3580e0dca1e9512c59b14498">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46b7a717726d8f0189542dfda20bc751956d6a2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.1_e5eaeb5dd6ce0cde962c2340d93e2b857617fd64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/17d657d71f6efdfebc7d2cd0a68a3c0dc1ff79a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f88c9ee2fa5c257728d9ffd6ecf567c545fc7f8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/80813b56a3c40a49cf3534cdee8c651d004d9055/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef2f6f698787a72de79082fc96d3f89b7e0bff29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/a4d1bfc233488bf2b152f832be5fc13d49bfb76c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e886ac267fe8c29674e9da88b8293bc0a5365c15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/3d7e674948f9558d53b9ceea18a9a57525344ea8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e492787f157c13839c02e0b7293871dbaed9911">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c63f15b5e5bb85a529463966008770525a3a5622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/00ceac44d92e4fec5d4804e4ad3528f11c2c9f87/output/jars/libs/jpush-android_v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b3abfd829391a1f04223a50f744d33c42556431b">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/jpush-android_v3.0.1_9d88b13015bc31b1d8520ba879d7a78dc2aa7898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.2/e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33/greendao-api-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-api-3.2.2_3d98533222b1e13d21ca14f4adecd6b3ee90d7f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/ab86399fd5c99a79ced9510e407dac3bc766f16d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="178a142a25abea83b5bbb8c2660e6fb6c1ac7eb1">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec16a09437624a9d682441b4411a70130e5095ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/libs/ShareSDK-Wechat-Favorite-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f87b958a80464686534d4cd2a823f24013f3d6a6">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Favorite-2.8.0_30225ce8118ee52d940a759d64987881e788bb24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/8d40096b6dc7d94a19297df0d522e4390b5a2ddd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01269cddd231a2a9c93de0a4cc90701c29c1d081/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/freemarker-2.3.23_f662bfb45e4ca78346d1d2435c8ee2679db4dd0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/libs/ShareSDK-Wechat-Moments-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bfde3133a50ea48791f3dfaaec53f2554b349c13">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Moments-2.8.0_ea4f8ced0b93cfffa8697451fcb1561633be0d9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f7aed3ddc4bdb2408900497709e7fedacbec3017/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/00ceac44d92e4fec5d4804e4ad3528f11c2c9f87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1907470ee37ac5ca563ab8a705c6b00a239f6941">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b85d2a548e9cd0605458509248c958a7a3e53e3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/83b1acd8d318704018ea775146115dcbae22aa79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac5b2318db69686ef3ac29983c81b97276dc01e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/libs/ShareSDK-Core-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e9280ac9c4af8ddf414a5a1ccaf9d113841b3f8">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.8.0_a1173e5d7ef4e6f7e7a0c165111331f6a4fc715e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/0415abf8ecd4f3e2d23d9600b11e49ab2deff6b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be6aa4b849485deaeff0848f67c30bb127e3572">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75b943f0560a60857ef53019732ed613db45a358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/Desktop/project/d1nj4n/example/libs/ShareSDK-Wechat-Core-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d080e6521d4e4a323cef0553631254721ca6ba6">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.8.0_9125edfa1b9e951468c06236f38cb4fb7cecbf8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/1618b8757194c2c420640d51605bfba3ab174227/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_127189595bce8617817288b4350ce7cb0446463b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/7cb641d9f39829c2e2f15c26cc42d51729b8a34f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="62cb017431936cfadeb8cb555f8db6250eddd8e9">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfc05d1956eaa0c9ebbc25604aab7461832c65af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.android/build-cache/5d33941b59c70c89f05d2a69d6809c4cd9b7173c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="970b2eadc8805e4e04a9008f97368c7b8cc78651">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2211c716568f53d88513b00286f7ed495bd15d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhanglong/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC0/eb86cd1d96acc30dcebf338abaf2c62ca28bf355/glide-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.0.0-RC0_b39ba0e1e4f5dae4eeca36daf79d4e5c84e48e5d/classes.dex" />
+    </item>
+
+</items>

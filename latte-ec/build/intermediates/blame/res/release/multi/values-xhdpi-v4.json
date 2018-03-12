@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/zhanglong/.android/build-cache/bb3fda14837631be5064811f3c5e00a6e5e9b5c2/output/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/zhanglong/.android/build-cache/bb3fda14837631be5064811f3c5e00a6e5e9b5c2/output/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 55,
+                        "endOffset": 164
+                    }
+                }
+            }
+        ]
+    }
+]

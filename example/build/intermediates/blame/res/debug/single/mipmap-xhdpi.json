@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/mipmap-xhdpi/app_logo.png",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/example/src/main/res/mipmap-xhdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\app_logo.png",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\src\\main\\res\\mipmap-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/example/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/example/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

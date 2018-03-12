@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\64e3a5796c2c725e19941d68b6a6dc57dd503295\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\ucrop_scale_text_view_selector.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\afa56e520c403da8e509b8185ebb5d21d79d5a92\\output\\res\\color\\ucrop_scale_text_view_selector.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/zhanglong/.android/build-cache/8f63cd0d5e04243591c2b5559bcaf09a2f52fdf9/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/zhanglong/.android/build-cache/8f63cd0d5e04243591c2b5559bcaf09a2f52fdf9/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/ucrop_scale_text_view_selector.xml",
+        "source": "/Users/zhanglong/.android/build-cache/3d7e674948f9558d53b9ceea18a9a57525344ea8/output/res/color/ucrop_scale_text_view_selector.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\64e3a5796c2c725e19941d68b6a6dc57dd503295\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/example/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\example\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    }
+]

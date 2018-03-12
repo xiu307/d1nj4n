@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\latte-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-core/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-core/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\Desktop\\project\\d1nj4n\\latte-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/C:\\Users\\Administrator\\.android\\build-cache\\f549afca828c684694a0e466decfc2e444c0bb1a\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

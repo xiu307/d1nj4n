@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/h_fragment_pop_enter.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/h_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/v_fragment_exit.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/v_fragment_exit.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/v_fragment_enter.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/v_fragment_enter.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/zhanglong/.android/build-cache/8f63cd0d5e04243591c2b5559bcaf09a2f52fdf9/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/zhanglong/.android/build-cache/8f63cd0d5e04243591c2b5559bcaf09a2f52fdf9/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/h_fragment_exit.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/h_fragment_exit.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/no_anim.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/no_anim.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/zhanglong/.android/build-cache/8f63cd0d5e04243591c2b5559bcaf09a2f52fdf9/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/h_fragment_pop_exit.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/h_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/v_fragment_pop_exit.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/v_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/h_fragment_enter.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/h_fragment_enter.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/zhanglong/.android/build-cache/8f63cd0d5e04243591c2b5559bcaf09a2f52fdf9/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/v_fragment_pop_enter.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/v_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/push_bottom_in.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/latte-core/build/intermediates/bundles/default/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/pop_exit_no_anim.xml",
+        "source": "/Users/zhanglong/.android/build-cache/90c034e6b50e6197cf9b0082b22f974ed62ed5dd/output/res/anim/pop_exit_no_anim.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/zhanglong/.android/build-cache/8f63cd0d5e04243591c2b5559bcaf09a2f52fdf9/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/zhanglong/.android/build-cache/3d7e674948f9558d53b9ceea18a9a57525344ea8/output/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/zhanglong/.android/build-cache/3d7e674948f9558d53b9ceea18a9a57525344ea8/output/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/push_bottom_out.xml",
+        "source": "/Users/zhanglong/Desktop/project/d1nj4n/latte-core/build/intermediates/bundles/default/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/zhanglong/.android/build-cache/8f63cd0d5e04243591c2b5559bcaf09a2f52fdf9/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/zhanglong/Desktop/project/d1nj4n/latte-ec/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/zhanglong/.android/build-cache/46102558cc8de4df8ea601d86b07ad4924299306/output/res/anim/abc_slide_in_top.xml"
+    }
+]
